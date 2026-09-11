@@ -10,7 +10,7 @@ Its simple! Just run the python script with an AI loaded in LM Studio and use th
 
 You can get it at 
 
-[chrome]{https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en&pli=1}
-[firefox]{https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/}
+[chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en&pli=1)
+[firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
 # If you fork, Please give a star! <3
